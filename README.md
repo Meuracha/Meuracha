@@ -1,6 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uracha Rittikulsittichai
 ================================================================================================================================================
 
+<a href="https://app.daily.dev/meuracha">
+  <img src="https://api.daily.dev/devcards/a88eaa73e76f4852ac510552926cf5b2.png?r=f2w" width="324" align="right" alt="Uracha Rittikulsittichai's Dev Card"/>
+</a>
+
 Data Analytic / Data Science
 ----------------------------
 
