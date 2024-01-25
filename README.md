@@ -24,7 +24,7 @@ Data Analytic / Data Science
 
 ### GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Meuracha&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Meuracha&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Meuracha&theme=tokyonight&hide_border=true)<br/>
 
