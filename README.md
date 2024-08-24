@@ -5,14 +5,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://api.daily.dev/devcards/a88eaa73e76f4852ac510552926cf5b2.png?r=f2w" width="324" align="right" alt="Uracha Rittikulsittichai's Dev Card"/>
 </a>
 
-Data Analytic / Data Science
+Data Analytic / Data Engineer
 ----------------------------
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [Uracha.rit@gmail.com](mailto:Uracha.rit@gmail.com)
-* 🧠  I'm learning Machine learning, Deep learning
-* 🤝  I'm open to collaborating on Data Analysis or Data Science projects
-* ⚡  I am a third-year student at King Mongkut's University of Technology Thonburi studying computer engineering.
+* 🧠  I'm learning Big data, Clound
+* 🤝  I'm open to collaborating on Data Analysis or Data Engineer projects
+* ⚡  I am a Fourth-year student at King Mongkut's University of Technology Thonburi studying computer engineering.
 
 ### Skills
 
